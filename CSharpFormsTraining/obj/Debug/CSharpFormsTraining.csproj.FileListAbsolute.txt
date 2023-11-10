@@ -1,11 +1,10 @@
+E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\bin\Debug\CSharpFormsTraining.exe
+E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\bin\Debug\CSharpFormsTraining.exe.config
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.csproj.AssemblyReference.cache
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.csproj.SuggestedBindingRedirects.cache
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.Form1.resources
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.Properties.Resources.resources
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.csproj.GenerateResource.cache
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.csproj.CoreCompileInputs.cache
-E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\bin\Debug\CSharpFormsTraining.exe.config
-E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\bin\Debug\CSharpFormsTraining.exe
-E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\bin\Debug\CSharpFormsTraining.pdb
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.exe
 E:\G V\CSharpTraining\CSharpTraining\CSharpFormsTraining\obj\Debug\CSharpFormsTraining.pdb

@@ -6,16 +6,39 @@ using System.Threading.Tasks;
 
 namespace CSharpFormsTraining
 {
-    internal class BasicTraning
+    internal static class BasicTraning
     {
-        public double forloop1(double n)
+        public static double ForLoop1(double n)
         {
             double J=0;
-            for (double i = 1; i <= n; i++)
+            for (int i = 1; i <= n; i++)
             {
                 J = i + J;
 
             }
+            return J;
+        }
+        public static double DoWhile1(double n)
+        { 
+            double J=0;
+            int i = 1;
+            do 
+            {
+                J = J + i;
+                i++;
+            }
+            while( i <= n);
+            return J;
+        }
+        public static double While1(double n)
+        {
+            double J = 0;
+            int i = 1;
+            while(i <= n)
+            {
+                J = J + i;
+                i++;
+            }      
             return J;
         }
     }
