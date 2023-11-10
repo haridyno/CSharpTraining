@@ -16,5 +16,14 @@ namespace CSharpFormsTraining
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            BasicTraning add = new BasicTraning();            
+
+            double b = double.Parse(textBox2.Text);            
+            double c = add.forloop1(b);
+            textBox1.Text = c.ToString();
+        }
     }
 }
